@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/pascalodek/AndroidStudioProjects/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/pascalodek/AndroidStudioProjects/SimpleTodo/app/build/intermediates/pre-dexed/debug/classes-3767d1984ea567b26fbb681fc46b500f1692d065.jar" />
+    </item>
+    <item
+        jar="/Users/pascalodek/AndroidStudioProjects/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/pascalodek/AndroidStudioProjects/SimpleTodo/app/build/intermediates/pre-dexed/debug/classes-1fb4106a3824636d70706e5131d9540c14e29482.jar" />
+    </item>
+    <item
+        jar="/Users/pascalodek/AndroidStudioProjects/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/pascalodek/AndroidStudioProjects/SimpleTodo/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-1663f68a966d5324d4fcb820a5e459892f5a3a28.jar" />
+    </item>
+    <item
+        jar="/Users/pascalodek/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/pascalodek/AndroidStudioProjects/SimpleTodo/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-58f24f3f93d77bc94ea60960725c9eb00b3c0258.jar" />
+    </item>
+
+</items>
